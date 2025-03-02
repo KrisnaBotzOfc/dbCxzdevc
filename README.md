@@ -1,9 +1,9 @@
-### ✨ Login Required RaolLatestX
+### ✨ Login Required For Serika - MD V2
 ```csharp
 -------------------------
-LOGIN SCRIPT RaolLatestX
-USERNAME: admin
-PASSWORD: admin123
+LOGIN SCRIPT Serika - MD V2
+USERNAME: cxzdev
+PASSWORD: cxzdev111
 -------------------------
 ```
-***© 2025 LatestURL. All rights reserved***
+***© 2025 Serika - MD, Updating New Version***
